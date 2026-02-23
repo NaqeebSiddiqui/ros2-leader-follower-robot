@@ -75,3 +75,7 @@ The follower robot continuously tracks the leader and stabilizes near the target
 - Obstacle avoidance
 - SLAM integration
 - Real robot deployment (TurtleBot3)
+
+## Demo Video
+
+[Watch the project demonstration] https://github.com/NaqeebSiddiqui/ros2-leader-follower-robot/releases/download/v1.0/ros2_leader_follower-final.mp4
